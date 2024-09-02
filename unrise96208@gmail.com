@@ -1,0 +1,173 @@
+[33mcommit 05b49ddc277d441161f3cc84cfe6e5299d13d756[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv1.0.2[m[33m, [m[1;31morigin1/master[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Jun 9 10:18:52 2017 +0530
+
+    update README
+
+[33mcommit 8219d6ddeb677f93c6cadd4de7d984dc4f4fb608[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Mon Feb 6 13:29:34 2017 +0530
+
+    change gitattributes
+
+[33mcommit 94693ab37d7af6b533749d58fd40da182c6b9cf3[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Mon Oct 31 14:17:09 2016 +0530
+
+    code cleanup
+
+[33mcommit 3ec1912a452c4a77f7acfa96d3542e5205aa89ee[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Mon Oct 31 10:19:25 2016 +0530
+
+    add checking for available bind
+
+[33mcommit 67d2569604297f10a4ee25681a2ef4875ad90bf9[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Sat Oct 22 00:30:15 2016 +0530
+
+    shorten make
+
+[33mcommit ae7ad6e5425b9c61a6891d0a00db9c1d14fca4cb[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 21 14:55:32 2016 +0530
+
+    change script to Makefile
+
+[33mcommit bbab4e31e88892424eb57da94fdcac9814a22965[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Thu Oct 20 10:06:11 2016 +0530
+
+    update license to Apache
+    
+    Signed-off-by: sideffect0 <mail3renjith@gmail.com>
+
+[33mcommit fe8843f9f0675896ccee49e962f0010e2640cd8f[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Thu Oct 20 09:36:46 2016 +0530
+
+    update README
+
+[33mcommit df6edfd366a4132f8dfd52066bfa2988b4ef0da0[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Thu Oct 20 07:55:33 2016 +0530
+
+    stdout host address binded if default meta-address, fixes #4
+
+[33mcommit ee1f47a71261b1e5513e1d4a6b952a8e1ce42d2e[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Tue Oct 11 09:57:01 2016 +0530
+
+    verbose join
+
+[33mcommit c83bd0c840d4c28410e8a90075126367680af8f6[m
+Merge: 422f59d 904c859
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Tue Oct 11 09:23:29 2016 +0530
+
+    Merge branch 'master' of https://github.com/sideffect0/http-server
+
+[33mcommit 422f59dc69d70c3361b7ed99a41ad78311fdb859[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Tue Oct 11 09:22:01 2016 +0530
+
+    add 0.0.0.0 as default host
+
+[33mcommit 904c859ec244c142ee86b2359ab9d2d2f2ef76e4[m
+Author: Renjith Thankachan <sideffect0@users.noreply.github.com>
+Date:   Fri Oct 7 21:00:15 2016 +0530
+
+    correct readme
+
+[33mcommit 4445577605216e2696a5576ba7cb266b0e4a8732[m[33m ([m[1;33mtag: [m[1;33mv1.0.1[m[33m, [m[1;33mtag: [m[1;33mAshtamudi-v1[m[33m, [m[1;33mtag: [m[1;33mAshtamudi[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 12:33:20 2016 +0530
+
+    update readme
+
+[33mcommit 46237c40dae6fc4277f9d0d576b9cf4a8f352d54[m
+Merge: f0137b5 fa842d4
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 12:26:16 2016 +0530
+
+    Merge branch 'master' of https://github.com/sideffect0/http-server
+
+[33mcommit f0137b5386b6e6096bf0765cc1cd0e70e911128f[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 12:10:52 2016 +0530
+
+        Working release of dev-server
+        its perfect for file serving or debugging your old school html websites
+        [ sh... its perfect option than *** install http-server :smile: ]
+        Release named Ashtamudi, https://en.wikipedia.org/wiki/Ashtamudi_Lake
+
+[33mcommit fa842d45ba7237a410a59bd0e7c0908bec46354e[m[33m ([m[1;33mtag: [m[1;33mAshtamudi-1[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 12:10:52 2016 +0530
+
+        Working release of dev-server
+        its perfect for file serving or debugging your old school html websites
+        (sh... its perfect option than *** install http-server :smile: )
+        Release named [Ashtamudi](https://en.wikipedia.org/wiki/Ashtamudi_Lake)
+
+[33mcommit 437e86beeb6f8c1da24b66bae796b1fc173df6af[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 12:04:39 2016 +0530
+
+    build and package with tar
+
+[33mcommit 00a23cb25634ef44bc32cad4ee096d68be46fc09[m[33m ([m[1;33mtag: [m[1;33malpha-5[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:56:03 2016 +0530
+
+    First Working Alpha release of dev-server
+    its perfect for file serving or debugging your old school html websites
+    (sh... its perfect option than *** install http-server)
+
+[33mcommit 6f724573364e57ac7e956e2d0951c6506c1f30f0[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:50:53 2016 +0530
+
+    correct flag parse & argument options
+
+[33mcommit f03ace0a316f60798f23a3f39b5f062bacf18f5f[m[33m ([m[1;33mtag: [m[1;33malpha-4[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:36:31 2016 +0530
+
+    remove build name
+
+[33mcommit ca41b07d2a3a6ebb4dc24c751c5e704f7d0d1921[m[33m ([m[1;33mtag: [m[1;33malpha-3[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:35:17 2016 +0530
+
+    rearrange source path
+
+[33mcommit 7bc9288ee6c7fb53953e1f2cf092071aa7173df2[m[33m ([m[1;33mtag: [m[1;33malpha-2[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:32:12 2016 +0530
+
+    rearrange source path
+
+[33mcommit 6c100b007ab1e9bf29935e2d15413ed670d1d58c[m[33m ([m[1;33mtag: [m[1;33malpha-1[m[33m)[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Fri Oct 7 11:27:38 2016 +0530
+
+    add test travis  config
+
+[33mcommit 17813372496a5b462d53b050e86153148db98dc3[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Thu Oct 6 18:43:34 2016 +0530
+
+    update README
+
+[33mcommit d3305cb3ea8a4c0eb8bb01280fea17068f65c596[m
+Author: sideffect0 <sunrise96208@gmail.com>
+Date:   Thu Oct 6 17:27:51 2016 +0530
+
+    bootstrap server
+
+[33mcommit 09f7643fa84a7c67179418e2864f450404164284[m
+Author: Renjith Thankachan <sideffect0@users.noreply.github.com>
+Date:   Thu Oct 6 08:55:57 2016 +0530
+
+    Initial commit

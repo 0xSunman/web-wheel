@@ -11,5 +11,5 @@ simple server for file serving or testing your html websites
     	Server port (default "5656")  
 ```
 ## Installation
-download platform specific binaries from https://github.com/sideffect0/web-wheel/releases/  
+download platform specific binaries from https://github.com/0xSunman/go-wheel/releases/  
 will add installation instruction for platform specific other package managers
